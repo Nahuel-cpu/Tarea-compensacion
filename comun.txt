@@ -1,3 +1,7 @@
 Línea 1 de Nahuel.
 Línea 2 de Nahuel.
+ HEAD
 Cambio desde main
+
+Cambio desde conflicto-prueba
+ conflicto-prueba
